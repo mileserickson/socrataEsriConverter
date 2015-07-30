@@ -1,0 +1,14 @@
+{
+  "name": "socrataEsriConverter",
+  "version": "1.0.0",
+  "description": "converts json from a Socrata ESRI-connector dataset's API into geojson",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}
