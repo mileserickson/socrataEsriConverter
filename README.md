@@ -17,5 +17,6 @@ Run it `node script.js`
 
 `data/output.geojson` will appear.  Use it.  Woot woot.
 
-Here's what it looks like after import to CartoDB:
 
+Here's what it looks like after import to CartoDB:
+![seattle_sidewalks](https://cloud.githubusercontent.com/assets/1833820/8975511/a64052d4-364d-11e5-871d-f0094d97865d.png)
